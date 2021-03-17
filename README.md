@@ -48,12 +48,12 @@ Componets:
 
 **ML Model API** 
 
-   Serving
-    :-----:
+  Serving
+  :-----:
 | - TensorFlow |
 | - Docker     |
 | - AWS        |
-
+  -------
 
 **Our Database**  
 > Must store the organized clusters of each user
