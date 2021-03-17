@@ -30,8 +30,9 @@ Componets:
 
    Stack
   :-----:
-| - Javascript  |
-| - React       |
+| - Javascript |
+| - NodeJS     |
+| - ReactJS    |
   -------
 
 **Mobile App**
@@ -44,7 +45,17 @@ Componets:
 | - Java   |
 | - Swift  |
   -------
-  
+
+**ML Model API** 
+
+   Serving
+  :-----:
+| - TensorFlow |
+| - Docker     |
+| - AWS        |
+  -------
+
+
 **Our Database**  
 > Must store the organized clusters of each user
 >> Will do so by making the Track URI a base 62 number and performing a **radix sort**
