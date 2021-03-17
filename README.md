@@ -53,7 +53,7 @@ Componets:
 | - TensorFlow |
 | - Docker     |
 | - AWS        |
-  -------
+
 
 **Our Database**  
 > Must store the organized clusters of each user
