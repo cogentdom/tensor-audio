@@ -33,8 +33,8 @@ Componets:
 | - Javascript |
 | - NodeJS     |
 | - ReactJS    |
-  -------
 
+-------
 **Mobile App**
 > Android app made with Java and android studio, hosted using Docker
 
@@ -44,8 +44,8 @@ Componets:
   :-----:
 | - Java   |
 | - Swift  |
-  -------
-
+  
+-------
 **ML Model API** 
 
   Serving
@@ -54,7 +54,7 @@ Componets:
 | - Docker     |
 | - AWS        |
 
-
+-------
 **Our Database**  
 > Must store the organized clusters of each user
 >> Will do so by making the Track URI a base 62 number and performing a **radix sort**
@@ -68,8 +68,9 @@ Componets:
   :-----:
 | - SQL     |
 | - MongoDB |
-  -------
-  
+ 
+
+-------
 **Functions**
 
 |              Utility                 |
