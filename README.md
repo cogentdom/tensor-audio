@@ -1,12 +1,13 @@
 ----------------------------------------------------------------------
 # Tensor Audio
 
-[!demo[](https://github.com/cogentdom/TensorAudio/blob/main/demo.html)]
-
 -----------------------------------
 Overview:
 -----------------------------------
 An application accessible to every platform, this project benefits any music profesional or enthusiast by allowing them to better connect with the music in their library.   
+
+[!demo[](https://portingdata.com/image_files/demo.html)]
+
 
 -----------------------------------
 Getting Started:
