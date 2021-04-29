@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------
 # Tensor Audio
 
-![](https://github.com/cogentdom/TensorAudio/blob/main/demo.html)
+[!demo[](https://github.com/cogentdom/TensorAudio/blob/main/demo.html)]
 
 -----------------------------------
 Overview:
