@@ -7,10 +7,10 @@ Overview:
 An application accessible to every platform, this project benefits any music profesional or enthusiast by allowing them to better connect with the music in their library.   
 
 
-[<img display=flex align=right height=300 width=400 src="https://portingdata.com/image_files/demo_3d.png" />]
-[<img display=flex float=left height=200 width=400 src="https://portingdata.com/image_files/demo_digital_T.png" />]  
+<img display=flex align=right height=230 width=460 src="https://portingdata.com/image_files/demo_3d.png" />
+<img display=flex float=left height=230 width=460 src="https://portingdata.com/image_files/demo_digital_T.png" /> 
 
-[<img display=flex float=left height=200 width=400 src="https://portingdata.com/image_files/demo_spectro.png" />]  
+<img display=flex float=left height=230 width=460 src="https://portingdata.com/image_files/demo_spectro.png" /> 
 
 
 
