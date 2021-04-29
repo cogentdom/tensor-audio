@@ -15,7 +15,7 @@ An application accessible to every platform, this project benefits any music pro
 <img display=flex float=left height=300 width=600 src="https://portingdata.com/image_files/demo_3d.png" /> 
 
 
-<a display=flex href="https://portingdata.com/image_files/demo_3d.html">Check out one of the demo files</a>
+<a display=flex href="https://portingdata.com/image_files/demo_3d.html">Check out one of our demo files</a>
 
 
 -----------------------------------
