@@ -64,6 +64,7 @@ Componets:
 | - TensorFlow |
 | - Docker     |
 | - AWS        |
+| - VPS        |
 
 -------
 **Our Database**  
