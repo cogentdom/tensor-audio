@@ -10,9 +10,9 @@ An application accessible to every platform, this project benefits any music pro
 <img display=flex align=right height=230 width=440 src="https://portingdata.com/image_files/demo_spectro.png" />
 -->
 
-<img display=flex float=left height=300 width=600 src="https://portingdata.com/image_files/demo_digital.png" /> 
+<img display=flex float=left height=300 width=600 src="https://cogentdom.files.wordpress.com/2023/11/acoustic_plots_1.png" /> 
 
-<img display=flex float=left height=300 width=600 src="https://portingdata.com/image_files/demo_3d.png" /> 
+<img display=flex float=left height=300 width=600 src="https://cogentdom.files.wordpress.com/2023/11/acoustic_plots_2.png" /> 
 
 
 <a display=flex href="https://portingdata.com/image_files/demo_3d.html">Check out one of our demo files</a>
